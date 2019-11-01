@@ -1,0 +1,30 @@
+Problem solving Approch: 
+1. Understand Problem
+2. Explore for examples
+3.Break It down.
+4.Solve
+5.Look Back and refactor
+
+1.Understanding The Problem
+Q. Function to add 2 numbers .
+* Can I restate the problem in own words?
+Implement addition
+*What are the inputs for the problem?
+2 numbers (a,b) int?? float??
+*what are the outputs?
+number int?? float??
+*Can outputs be determined by input?
+
+*How should i label imp pieces of data that are part of the problem?
+
+2. Explore for examples
+#coming up with examples helps solve problem better.
+*start with simple examples
+*progress to complex examples
+*explore examples with empty inputs 
+*explore examples with invalid inputs 
+
+3.Break It down.
+Explicitly write out the steps you need to take.
+
+4.Solve
