@@ -9,4 +9,4 @@ function countDown(n) {
     countDown(n);
 }
 
-console.log(countDown(9))
+console.log(countDown(8))
