@@ -1,3 +1,4 @@
+//pseudocode in selectionsort.txt file
 function selectionSort(arr) {
     for (let i = 0; i < arr.length; i++) {
         console.log(arr, 'old array')
